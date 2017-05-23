@@ -5,7 +5,7 @@ body {
 }
 
 #cover {
-  background: url('img/seomarketing.jpg') no-repeat;
+  background: url('/img/seomarketing.jpg') no-repeat;
   background-size: cover;
   height: 100%;
   text-align: center;
