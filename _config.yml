@@ -1,2 +1,2 @@
 baseurl: /marketing
- exclude: ['README.md']
+ exclude: [ 'README.md' ]
