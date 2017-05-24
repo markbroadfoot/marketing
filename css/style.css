@@ -17,6 +17,9 @@ body {
 }
 
 #cover-caption {
+  display: flex;
+  display: -webkit-box;
+  display: -webkit-flex;
   width: 100%;
   color: white;
 }
