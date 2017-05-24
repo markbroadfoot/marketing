@@ -13,6 +13,7 @@ body {
   display: flex;
   display: -webkit-box;
   display: -webkit-flex;
+  display: -ms-flexbox;
   align-items: center;
 }
 
@@ -20,6 +21,7 @@ body {
   display: flex;
   display: -webkit-box;
   display: -webkit-flex;
+  display: -ms-flexbox;
   width: 100%;
   color: white;
 }
