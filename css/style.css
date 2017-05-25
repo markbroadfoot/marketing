@@ -7,14 +7,13 @@ body {
 h1 {
   font-size: 80px;
   font-family: "Open Sans"; }
-  h2 {
-    padding-top: 50px;
+  h1 h2 {
+    padding-top: 200px;
     text-align: center; }
 
 .logo {
   height: 100px;
   width: 100%;
-  background-image: url(../img/logo1.svg);
   background-position: center;
   background-repeat: no-repeat;
   background-padding: 30px; }
