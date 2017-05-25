@@ -18,8 +18,8 @@ h1 {
   background-repeat: no-repeat;
   background-padding: 30px; }
 
-header {
-  padding-top: 50px;
+.hero {
+  padding: 20vh 0;
   background-image: url("../img/seomarketing.jpg");
   height: 600px; }
 
