@@ -5,7 +5,9 @@ body {
   color: #333; }
   html footer,
   body footer {
-    background: lightgrey; }
+    background: lightgrey;
+    padding-top: 20px;
+    font-size: 13px; }
 
 h1 {
   font-size: 80px;
